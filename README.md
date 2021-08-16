@@ -10,7 +10,7 @@ The page for this project can be found at https://tbusch74.github.io/1-Code-Refa
 
 See below for a screenshot of the finished webpage.
 
-![Horiseon screenshot](assets/images/Screenshot.png)
+![Horiseon screenshot](assets/images/Screenshot.PNG)
 
 ## Credits
 
