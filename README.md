@@ -9,7 +9,9 @@ This repository is for the first weekly challenge for the University of Minnesot
 The page for this project can be found at https://tbusch74.github.io/1-Code-Refactor-Challenge/
 
 See below for a screenshot of the finished webpage.
+```md
 ![alt text](assets/images/screenshot.png)
+```
 
 ## Credits
 
